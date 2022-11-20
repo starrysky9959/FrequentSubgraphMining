@@ -51,10 +51,10 @@ card_map = load_vertex("card", "card")
 account_to_account_list = load_edge("account_to_account", "account", "account")
 account_to_card_list = load_edge("account_to_card", "account", "card")
 print(
-    "vertex size: {}, edge size: {}".format(
+    "vertex size: {}, edge size of hash buckct: {}".format(
         len(account_map) + len(card_map),
         len(account_to_account_list) + len(account_to_card_list),
     )
 )
 
-for ()
+# for ()

@@ -3,3 +3,6 @@ data/*
 
 # python
 __pycache__/
+
+# some personal file
+push.sh
