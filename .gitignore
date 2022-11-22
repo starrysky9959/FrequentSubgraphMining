@@ -6,3 +6,6 @@ __pycache__/
 
 # some personal file
 push.sh
+
+build/
+.vscode/
